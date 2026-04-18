@@ -112,11 +112,6 @@ wanderlust/
 - [ ] Payment gateway integration (Stripe)
 - [ ] Map integration for listing locations
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
