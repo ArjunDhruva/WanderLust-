@@ -3,15 +3,11 @@
 ### Airbnb Clone – Full Stack Web Application
 
 Wanderlust is a **full-stack web application inspired by Airbnb**, built as my first complete full-stack project. The goal was to understand how real-world web applications work — from frontend to backend.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://wanderlust-pfpk.onrender.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ---
 
 ## 🚀 Live Demo
 
-🔗 [https://wanderlust-pfpk.onrender.com/](https://wanderlust-pfpk.onrender.com/)
+🔗 [(https://wanderlust-yf6a.onrender.com)](https://wanderlust-yf6a.onrender.com))
 
 ---
 
