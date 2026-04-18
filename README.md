@@ -71,7 +71,7 @@ nodemon app.js
 ### 5. Open in browser
 
 ```
-http://localhost:3000
+http://localhost:8080
 ```
 
 ---
